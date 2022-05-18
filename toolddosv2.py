@@ -180,7 +180,7 @@ def logo():
     elif sys.platform.startswith("freebsd"):
         os.system('clear')
     else:
-        os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title Download: bit.ly/AnonyV28 ~ Anonymous DDoSer v2.8")
+        os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title Tool DDoS By Vu Xuan Phong")
     print('''____   ____      ____  ___                     __________.__                           
 \   \ /   /_ __  \   \/  /__ _______    ____   \______   \  |__   ____   ____    ____  
  \   Y   /  |  \  \     /|  |  \__  \  /    \   |     ___/  |  \ /  _ \ /    \  / ___\ 
